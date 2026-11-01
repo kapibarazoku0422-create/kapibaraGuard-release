@@ -1,0 +1,78 @@
+{
+  "languages": [
+    "ja | 日本語 (Japanese)",
+    "en | English",
+    "zh-CN | 简体中文 (Simplified Chinese)",
+    "zh-TW | 繁體中文 (Traditional Chinese)",
+    "ko | 한국어 (Korean)",
+    "es | Español (Spanish)"
+  ],
+  "translations": {
+    "ja": {
+      "Title": "kapibaraGuard ULTIMATE — 多言語GUIインストーラー (署名不要)",
+      "Subtitle": "商用証明書不要・暗号化パッケージ展開＆ビルド後ソース即時消去方式",
+      "LangLabel": "表示言語 / Language:",
+      "ModeLabel": "初期動作モード:",
+      "ShortcutCheck": "デスクトップ・スタートメニュー・アプリ一覧にショートカットとアプリを追加する",
+      "LaunchCheck": "インストール完了後に kapibaraGuard アプリを起動する (24時間監視)",
+      "InstallBtn": "インストール開始",
+      "CloseBtn": "閉じる",
+      "DoneMsg": "アプリ本体の登録とショートカットの作成が完了しました！"
+    },
+    "en": {
+      "Title": "kapibaraGuard ULTIMATE — Multilingual GUI Installer (Zero-Signature)",
+      "Subtitle": "Encrypted package build with immediate source wipe & zero certificates required",
+      "LangLabel": "Select Language:",
+      "ModeLabel": "Initial Operating Mode:",
+      "ShortcutCheck": "Add Desktop Shortcut, Start Menu App & Windows Installed App",
+      "LaunchCheck": "Launch kapibaraGuard App after installation (24/7 Watchdog)",
+      "InstallBtn": "Install Now",
+      "CloseBtn": "Close",
+      "DoneMsg": "App registration and shortcuts created successfully!"
+    },
+    "zh-CN": {
+      "Title": "kapibaraGuard ULTIMATE — 多语言图形安装程序 (免签名模式)",
+      "Subtitle": "加密包本地编译并在编译后立即擦除源码，无需商业签名证书",
+      "LangLabel": "选择语言 / Language:",
+      "ModeLabel": "初始运行模式:",
+      "ShortcutCheck": "添加桌面快捷方式、开始菜单应用与系统已安装应用列表",
+      "LaunchCheck": "安装完成后立即启动 kapibaraGuard 应用 (24小时监控)",
+      "InstallBtn": "开始安装",
+      "CloseBtn": "关闭",
+      "DoneMsg": "应用注册与快捷方式创建已成功完成！"
+    },
+    "zh-TW": {
+      "Title": "kapibaraGuard ULTIMATE — 多語言圖形安裝程式 (免簽章模式)",
+      "Subtitle": "加密套件本機編譯並於編譯後立即擦除原始碼，無需商業簽章憑證",
+      "LangLabel": "選擇語言 / Language:",
+      "ModeLabel": "初始運作模式:",
+      "ShortcutCheck": "新增桌面捷徑、開始功能表應用程式與系統已安裝應用程式",
+      "LaunchCheck": "安裝完成後立即啟動 kapibaraGuard 應用程式 (24小時監控)",
+      "InstallBtn": "開始安裝",
+      "CloseBtn": "關閉",
+      "DoneMsg": "應用程式註冊與捷徑建立已成功完成！"
+    },
+    "ko": {
+      "Title": "kapibaraGuard ULTIMATE — 다국어 GUI 설치 마법사 (무서명 모드)",
+      "Subtitle": "암호화 패키지 로컬 빌드 및 즉시 소스 삭제 방식 (인증서 불필요)",
+      "LangLabel": "언어 선택 / Language:",
+      "ModeLabel": "초기 동작 모드:",
+      "ShortcutCheck": "바탕화면 바로가기, 시작 메뉴 앱 및 설치된 앱 목록에 추가",
+      "LaunchCheck": "설치 완료 후 kapibaraGuard 앱 실행 (24시간 감시)",
+      "InstallBtn": "설치 시작",
+      "CloseBtn": "닫기",
+      "DoneMsg": "앱 등록 및 바로가기 생성이 완료되었습니다!"
+    },
+    "es": {
+      "Title": "kapibaraGuard ULTIMATE — Instalador GUI Multilingüe (Sin Firma)",
+      "Subtitle": "Paquete cifrado con borrado inmediato de código fuente y sin certificados",
+      "LangLabel": "Seleccionar Idioma / Language:",
+      "ModeLabel": "Modo de Operación Inicial:",
+      "ShortcutCheck": "Añadir acceso directo en Escritorio, Menú Inicio y Aplicaciones instaladas",
+      "LaunchCheck": "Iniciar la aplicación kapibaraGuard al finalizar (Vigilancia 24/7)",
+      "InstallBtn": "Instalar Ahora",
+      "CloseBtn": "Cerrar",
+      "DoneMsg": "¡Aplicación y accesos directos instalados con éxito!"
+    }
+  }
+}
